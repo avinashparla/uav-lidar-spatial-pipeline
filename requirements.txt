@@ -1,0 +1,17 @@
+# Spatial & LiDAR Data Handling
+laspy[lazrs,pyproj]
+rasterio
+geopandas
+shapely
+
+# High-Performance Data Processing
+polars
+numpy
+pandas
+
+# Mathematical Modeling & Interpolation
+scipy
+
+# Visualization & 3D Rendering
+matplotlib
+open3d
